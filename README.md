@@ -51,6 +51,7 @@ Application for text signature of contents of the universe of react
 ## :sparkles: Features ##
 
 :heavy_check_mark: Commit inicial;\
+:heavy_check_mark: Adicionando typescript no projeto;\
 
 ## :rocket: Technologies ##
 
