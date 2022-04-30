@@ -50,7 +50,7 @@ Application for text signature of contents of the universe of react
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Initial Commit;\
+:heavy_check_mark: Commit inicial;\
 
 ## :rocket: Technologies ##
 
